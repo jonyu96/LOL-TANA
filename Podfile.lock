@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.8.0)
+  - EFCountingLabel (4.1.0)
+  - SuxiNumberInputView (0.2.1)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8)
+  - EFCountingLabel
+  - SuxiNumberInputView (~> 0.2)
+  - SwiftyJSON (~> 4.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - EFCountingLabel
+    - SuxiNumberInputView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  EFCountingLabel: d3da80ee35b212f3b434ed9a3431653504b9f982
+  SuxiNumberInputView: b727c5fb3f591ffeab7842e968bb3260b43f883f
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: a1bc7c1ebfe04f584726105816f1fe6f3c108c2f
+
+COCOAPODS: 1.6.0.beta.2
